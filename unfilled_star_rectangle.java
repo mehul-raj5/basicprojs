@@ -1,7 +1,4 @@
 package src;
-
-
-
 public class unfilled_star_rectangle {
     public static void main(String[]args){
     
@@ -16,20 +13,8 @@ public class unfilled_star_rectangle {
                     System.out.print("*");
                     System.out.print("  ");
                 }System.out.println(" ");
-                    
-            }
-            
-           
-
-        }
-
-        
-        
-    
-    
-    
-    
-    
+           }                     
+        }          
     }
 }
 
